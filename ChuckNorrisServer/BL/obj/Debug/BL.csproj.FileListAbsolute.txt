@@ -1,0 +1,7 @@
+C:\Users\Aviad\Documents\Visual Studio 2013\Projects\ChuckNorrisServer\BL\bin\Debug\BL.dll
+C:\Users\Aviad\Documents\Visual Studio 2013\Projects\ChuckNorrisServer\BL\bin\Debug\BL.pdb
+C:\Users\Aviad\Documents\Visual Studio 2013\Projects\ChuckNorrisServer\BL\bin\Debug\DAL.dll
+C:\Users\Aviad\Documents\Visual Studio 2013\Projects\ChuckNorrisServer\BL\bin\Debug\DAL.pdb
+C:\Users\Aviad\Documents\Visual Studio 2013\Projects\ChuckNorrisServer\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\Aviad\Documents\Visual Studio 2013\Projects\ChuckNorrisServer\BL\obj\Debug\BL.dll
+C:\Users\Aviad\Documents\Visual Studio 2013\Projects\ChuckNorrisServer\BL\obj\Debug\BL.pdb
